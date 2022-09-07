@@ -26,3 +26,4 @@ line = line_character * 20
 print(line)
 
 print('zo makkelijk')
+print('stomme push')
