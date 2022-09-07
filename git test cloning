@@ -24,3 +24,5 @@ print(incorrect)
 line_character = '-'
 line = line_character * 20
 print(line)
+
+print('zo makkelijk')
